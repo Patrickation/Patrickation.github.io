@@ -1,0 +1,1 @@
+import{_ as o,o as a,c as e,a2 as l}from"./chunks/framework.CdvW4CUT.js";const h=JSON.parse('{"title":"关于","description":"","frontmatter":{},"headers":[],"relativePath":"about.md","filePath":"about.md"}'),r={name:"about.md"};function i(n,t,s,u,c,d){return a(),e("div",null,[...t[0]||(t[0]=[l("",8)])])}const p=o(r,[["render",i]]);export{h as __pageData,p as default};
